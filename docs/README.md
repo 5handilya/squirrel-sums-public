@@ -7,6 +7,8 @@ My submission for Comini Learning's [Addition Game hiring challenge](https://git
 
 Squirrel sums is a game that hopes to more gently and intuitively introduce children to the concept of addition with the help of a see-saw visualization - which is a greatly underutilized tool.
 
+This was my first web development project, and I learned the ropes making this full stack project in about two weeks. I later deployed it on a Google Cloud Platform VM, and now on my own computer with a cloudflare tunnel + nginx (among other sites). If the link doesnt work, I apologize! I am probably in a blackout :|
+
 ### [See it in action!](https://youtu.be/SeQGfVNL2yY)
 
 ### It is my hope that...
